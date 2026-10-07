@@ -1,0 +1,6 @@
+{
+  "name": "Vunweb Lead Finder",
+  "description": "Ferramenta de prospecção de clientes e CRM inteligente para a Vunweb com busca em tempo real via Google Places API (New).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
